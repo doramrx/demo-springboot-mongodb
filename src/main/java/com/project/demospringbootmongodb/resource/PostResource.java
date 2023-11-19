@@ -1,8 +1,6 @@
 package com.project.demospringbootmongodb.resource;
 
 import com.project.demospringbootmongodb.domain.Post;
-import com.project.demospringbootmongodb.domain.User;
-import com.project.demospringbootmongodb.dto.UserDTO;
 import com.project.demospringbootmongodb.services.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
